@@ -35,7 +35,7 @@ type feedbackResult struct {
 	feedbackTotal    int
 	feedbackPositive int
 	feedbackNegative int
-	feedbackNeutal   int
+	feedbackNeutral   int
 }
 
 type rating float32
